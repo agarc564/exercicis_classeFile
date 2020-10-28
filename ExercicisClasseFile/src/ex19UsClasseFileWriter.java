@@ -1,5 +1,6 @@
 /**
- * 
+ * Exemple de com fer servir la classe FileWriter
+
  */
 
 
